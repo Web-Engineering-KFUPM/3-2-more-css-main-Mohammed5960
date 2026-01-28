@@ -56,7 +56,7 @@
 */
 .color-demo .color-note {
   color: var(--brand);
-  font-weight: 700;
+  font: bold;
 }
 
 .color-demo .muted {
